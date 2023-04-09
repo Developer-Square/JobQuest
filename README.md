@@ -1,3 +1,5 @@
+# Link to published app
+You can view the app using the following link [JobQuest App](https://expo.dev/@ryan_zoo/Jobs_Search_App?serviceType=classic&distributionn=expo-go). Just scan download the expo app on playstore then scan the QR code.
 # Expo Router Example
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
